@@ -1,0 +1,16 @@
+// https://www.youtube.com/watch?v=-RCnNyD0L-s
+
+npm i ejs                     - embedded javascript templating
+npm i express                 - 
+npm i save-dev nodemon dotenv - .env file for environment variables
+npm i bcrypt                  - hash password
+npm i passport                - password
+npm i passport-local          - password
+npm i express-session         - store across sessions
+npm i express-flash           - message for wrong password, email...
+
+npm run devStart
+
+
+
+
